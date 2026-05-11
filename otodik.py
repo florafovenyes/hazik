@@ -20,7 +20,7 @@ def feldolgozas(kerdes):
     return szamjegyek
 
 while True:
-    kerdes = input("Kerdes: ")
+    kerdes = input("Kerdes : ")
 
     if kerdes == "exit" or kerdes == "quite":
         print("Bye!")
